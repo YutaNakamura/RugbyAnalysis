@@ -1,6 +1,7 @@
 # RugbyAnalysis
-Analysis tool for rugby game
-======================
+========================
+
+#Analysis tool for rugby game
 
 #Member
  ・YutaNakamura
